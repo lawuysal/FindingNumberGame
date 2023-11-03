@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+
 
 namespace SayiBulmaOyunu
 {
@@ -30,9 +32,21 @@ namespace SayiBulmaOyunu
             timeConst = 0;
             isDone = false;
             isSecretValid = true;
-            score = 0;
+            
 
 
+        }
+
+        public static void saveStatus(ListBox guessBox, ListBox colorBox) 
+        {
+            string tempString = "";
+            for (int i = 0; i < guessBox.Items.Count; i++ )
+            {
+                tempString += "Guess: " + guessBox.Items[i].ToString() + " Colors: " + colorBox.Items[i].ToString() + "\n";   
+            }
+
+            System.IO.File.
+            System.IO.File.WriteAllText("statusRecords.txt", tempString);
         }
 
         public static void checkSecretValidation()

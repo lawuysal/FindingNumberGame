@@ -194,6 +194,7 @@
             saveScoreBtn.TabIndex = 13;
             saveScoreBtn.Text = "Save the Score";
             saveScoreBtn.UseVisualStyleBackColor = true;
+            saveScoreBtn.Click += saveScoreBtn_Click;
             // 
             // resetBtn
             // 

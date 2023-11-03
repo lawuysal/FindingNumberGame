@@ -18,10 +18,10 @@ namespace SayiBulmaOyunu
                 {
                     throw new Exception("SecretEmptyException!\nSecret can not be empty.");
                 }
-                if (Game.isSecretValid == false )
+                if (Game.isSecretValid == false)
                 {
-                   // throw new NotImplementedException();
-                   throw new Exception("NotValidSecretException\nSecret can not include the same numbers.");
+                    // throw new NotImplementedException();
+                    throw new Exception("NotValidSecretException\nSecret can not include the same numbers.");
                 }
                 Game.tries = int.Parse(tryCountTBox.Text);
                 if (Game.tries == 0)
@@ -154,6 +154,11 @@ namespace SayiBulmaOyunu
             guessBox.Items.Clear();
             colorBox.Items.Clear();
 
+        }
+
+        private void saveScoreBtn_Click(object sender, EventArgs e)
+        {
+            Game.saveStatus(guessBox, colorBox);
         }
     }
 }
