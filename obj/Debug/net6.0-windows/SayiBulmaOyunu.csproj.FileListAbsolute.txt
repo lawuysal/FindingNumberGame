@@ -1,0 +1,16 @@
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\bin\Debug\net6.0-windows\SayiBulmaOyunu.exe
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\bin\Debug\net6.0-windows\SayiBulmaOyunu.deps.json
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\bin\Debug\net6.0-windows\SayiBulmaOyunu.runtimeconfig.json
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\bin\Debug\net6.0-windows\SayiBulmaOyunu.dll
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\bin\Debug\net6.0-windows\SayiBulmaOyunu.pdb
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.Form1.resources
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.csproj.GenerateResource.cache
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.AssemblyInfoInputs.cache
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.AssemblyInfo.cs
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.dll
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\refint\SayiBulmaOyunu.dll
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.pdb
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\SayiBulmaOyunu.genruntimeconfig.cache
+C:\Users\raylaw\Desktop\Code\Csh\SayiBulmaOyunu\obj\Debug\net6.0-windows\ref\SayiBulmaOyunu.dll
